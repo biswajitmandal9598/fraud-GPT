@@ -14,5 +14,7 @@ THIS TOOL 🔫 ⚠️ ONLY FOR EDUCATION PURPOSE ⚠️
 [4] python fraud.py
 
 
+# CONTACT ADMIN 
 
+     https://t.me/biswa_yt
    
